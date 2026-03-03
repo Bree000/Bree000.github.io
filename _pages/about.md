@@ -30,14 +30,14 @@ My research interest includes applications of machine learning in environmental 
 
 
 # 🎖 Honors and Awards
-- *2025- '(Now)'* MEXT Scholarship. 
+- *2025- Now* MEXT Scholarship. 
 - *2020* National Scholarship.
 - *2023* Bronze Medal, National College Students Entrepreneurship Plan Competition (2023): "Anaerobic Ammonia Oxidation Nitrogen Removal and Phosphorus Recovery".
 - *2022* 1st Prize, Energy Conservation and Emission Reduction Competition (2022)
 
 # 📖 Educations
-- *2025.10 - '(Now)', Ph.D. Candidate, Institute of Science Tokyo, Manabu Fujii Lab.
-- *2021.09 - 2024.06, M.Eng. Environmental Science & Engineering (GPA 3.554), South China University of Technology
+- *2025.10 - Now*, Ph.D. Candidate, Institute of Science Tokyo, Manabu Fujii Lab.
+- *2021.09 - 2024.06*, M.Eng. Environmental Science & Engineering (GPA 3.554), South China University of Technology
 - *2017.09 - 2021.06*, B.Eng. Environmental Science & Engineering (GPA 3.694), Hunan University of Science and Technology.
 
 
