@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am Chuchu Zhang, a Ph.D. student (since Apr. 2026) at the Manabu Fujii Lab, Department of Civil and Environmental Engineering, Institute of Science Tokyo, Japan. I earned my M.Eng. in Environmental Science and Engineering (GPA 3.554) from South China University of Technology (2021-2024) and B.Eng. (GPA 3.694) from Hunan University of Science and Technology (2017-2021). 
+​
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Awards include MEXT Scholarship, National Scholarship, and a Bronze Medal in the National College Students Entrepreneurship Plan Competition (2023). My interests span microbial ecology in water treatment, Anammox-based nitrogen/phosphorus removal, and sustainable wastewater technologies.
+
+
+My research interest includes applications of machine learning in environmental chemistry, coastal DOM cycle, and mainstream Anammox processes for treating low C/N municipal wastewater and low-carbon nitrate wastewater treatment. As well as applications of High-throughput sequencing and metagenomic analysis to reveal organic matter transformation mechanisms. My work has resulted in several publications in top journals like Water Research, Journal of Environmental Management, and Bioresource Technology with total <a href='https://scholar.google.com/citations?user=Cc1ftfwAAAAJ'>google scholar citations <strong><span id='total_cit'>160+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Cc1ftfwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
