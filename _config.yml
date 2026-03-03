@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Chuchu ZHANG"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
+  bio              : "Institute of science Tokyo"
+  location         : "Tokyo, Japan"
+  employer         : "PhD student" 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=Cc1ftfwAAAAJ"
+  email            : "Zhangchuchu12345@163.com"
+  researchgate     : "https://www.researchgate.net/profile/Chuchu-Zhang-12"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : # e.g., "Bree000"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : # e.g., "CHUCHU ZHANG"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : # e.g., "https://orcid.org/0000-0001-5367-6045"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
