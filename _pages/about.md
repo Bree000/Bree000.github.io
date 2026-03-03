@@ -47,12 +47,17 @@ My research interest includes applications of machine learning in environmental 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025- '(Now)'* MEXT Scholarship. 
+- *2020* National Scholarship.
+- *2023* Bronze Medal, National College Students Entrepreneurship Plan Competition (2023): "Anaerobic Ammonia Oxidation Nitrogen Removal and Phosphorus Recovery".
+- *2022* 1st Prize, Energy Conservation and Emission Reduction Competition (2022)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10 - '(Now)', Ph.D. Candidate, Institute of Science Tokyo, Manabu Fujii Lab.
+- *2021.09 - 2024.06, M.Eng. Environmental Science & Engineering (GPA 3.554), South China University of Technology
+- *2017.09 - 2021.06*, B.Eng. Environmental Science & Engineering (GPA 3.694), Hunan University of Science and Technology.
+
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
