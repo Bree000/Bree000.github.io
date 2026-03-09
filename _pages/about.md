@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Chuchu Zhang, a Ph.D. student (since Apr. 2026) at the Manabu Fujii Lab, Department of Civil and Environmental Engineering, Institute of Science Tokyo, Japan. I earned my M.Eng. in Environmental Science and Engineering (GPA 3.554) from South China University of Technology (2021-2024) and B.Eng. (GPA 3.694) from Hunan University of Science and Technology (2017-2021). 
+I am Chuchu Zhang, a Ph.D. student (since Apr. 2026) at the Manabu Fujii Lab, Department of Civil and Environmental Engineering, Institute of Science Tokyo, Japan. I earned my M.Eng. in Environmental Science and Engineering from South China University of Technology (2021-2024) and B.Eng. from Hunan University of Science and Technology (2017-2021). 
 
 My research interest includes applications of machine learning in environmental chemistry, coastal DOM cycle, and mainstream Anammox processes for treating low C/N municipal wastewater and low-carbon nitrate wastewater treatment. As well as applications of High-throughput sequencing and metagenomic analysis to reveal organic matter transformation mechanisms. My work has resulted in several publications in top journals like Water Research, Journal of Environmental Management, and Bioresource Technology with total <a href='https://scholar.google.com/citations?user=Cc1ftfwAAAAJ'>google scholar citations <strong><span id='total_cit'>160+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Cc1ftfwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -37,8 +37,8 @@ My research interest includes applications of machine learning in environmental 
 
 # 📖 Educations
 - *2025.10 - Now*, Ph.D. Candidate, Institute of Science Tokyo, Manabu Fujii Lab.
-- *2021.09 - 2024.06*, M.Eng. Environmental Science & Engineering (GPA 3.554), South China University of Technology
-- *2017.09 - 2021.06*, B.Eng. Environmental Science & Engineering (GPA 3.694), Hunan University of Science and Technology.
+- *2021.09 - 2024.06*, M.Eng. Environmental Science & Engineering, South China University of Technology
+- *2017.09 - 2021.06*, B.Eng. Environmental Science & Engineering, Hunan University of Science and Technology.
 
 
 # 💬 Invited Talks
